@@ -3,17 +3,29 @@
 </h1>
 
 <p align="center">
-  Checkpoints e Global Solutions da FIAP.<br>
+  <b>Checkpoints e Global Solutions da FIAP.</b><br>
   Cada repositório é uma entrega completa, com arquitetura, código e como validar.
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,githubactions,kubernetes,aws,python,flask" alt="Stacks" />
+  </a>
 </p>
 
 ## Projetos
 
-| Repositório | Matéria | Entrega | O que é |
-|---|---|---|---|
-| [fiap-devops-cp2](https://github.com/fiap-cloud-org/fiap-devops-cp2) | DevOps | CP2 | CI/CD com GitOps: GitHub Actions, Docker Hub e ArgoCD no Kubernetes da Oracle Cloud |
-| [fiap-sec-cp3](https://github.com/fiap-cloud-org/fiap-sec-cp3) | Segurança | CP3 | Threat model de um e-commerce financeiro na AWS com STRIDE, DREAD e PCI DSS |
-| [fiap-ia-cp3](https://github.com/fiap-cloud-org/fiap-ia-cp3) | Inteligência Artificial | CP3 | Chatbot de restaurante com NLP (NLTK) e receitas via Gemini |
+### [fiap-devops-cp2](https://github.com/fiap-cloud-org/fiap-devops-cp2) · DevOps
+
+CI/CD com GitOps na Oracle Cloud: app Spring Boot com build no **GitHub Actions**, imagem no **Docker Hub** e deploy automático pelo **ArgoCD** no Kubernetes (OKE).
+
+### [fiap-sec-cp3](https://github.com/fiap-cloud-org/fiap-sec-cp3) · Segurança
+
+Threat model do **FinanceShop**, um e-commerce financeiro na AWS: **STRIDE** por componente, notas **DREAD**, 29 vulnerabilidades priorizadas e os requisitos do **PCI DSS Level 1**.
+
+### [fiap-ia-cp3](https://github.com/fiap-cloud-org/fiap-ia-cp3) · Inteligência Artificial
+
+Site do restaurante **Sakura Sushi** com um chatbot de atendimento: **NLP com NLTK** reconhecendo 17 intenções, várias por mensagem, e receitas buscadas na **API do Gemini**.
 
 ## Padrão de nomenclatura
 
